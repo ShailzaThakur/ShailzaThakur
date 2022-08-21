@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ShailzaThakur
-- 👀 I’m interested in technology 
-- 🌱 I’m currently learning c/c++ and ui and ux developer
-- 💞️ I’m looking to collaborate on projects related to c/c++ and app designing
-- 📫 How to reach me my instagram id shailza_thakur7
+@ShailzaThakur
+Interested in technology 
+UI/UX developer
+Web developer
+
 
 <!---
 ShailzaThakur/ShailzaThakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
