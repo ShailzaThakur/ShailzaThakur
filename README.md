@@ -1,7 +1,7 @@
-@ShailzaThakur
-Interested in technology 
-UI/UX developer
-Web developer
+-@ShailzaThakur
+-Interested in technology 
+-UI/UX developer
+-Web developer
 
 
 <!---
